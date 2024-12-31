@@ -28,6 +28,8 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 •	**Skills:** A comprehensive list of my technical skills and areas of expertise.
 
+•	**Resume:** I invite you to take a look at my resume, where you can find a detailed overview of my skills, professional experience, educational background, and qualifications
+
 •	**Projects:** Showcase of selected projects with descriptions and links to live versions and source code.
 
 •	**Contact:** Links to my social media profiles and contact information.
@@ -40,8 +42,6 @@ This portfolio website is built using the following technologies:
 
 •	**Backend:** Node.js (Optional, if backend features are included in future updates)
 
-•	**Deployment:** Vercel
-
 **Setup and Installation**:
 
 To get a local copy of this project up and running, follow these steps:
@@ -50,13 +50,13 @@ To get a local copy of this project up and running, follow these steps:
 git clone https://github.com/pratham891/portfolio.git
 
 2.	**Navigate to the Project Directory:**
-cd portfolio
+cd react
 
-3.	**INstall Dependencies:**
+3.	**Install Dependencies:**
 npm install
 
 4.	**Start the development server:**
-npm run dev
+npm start
 
 5.	Open your browser and go to http://localhost:3000 to view the application.
 
