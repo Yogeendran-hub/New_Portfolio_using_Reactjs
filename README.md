@@ -20,7 +20,7 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 
 
-**Sections**
+**Sections**:
 
 •	Home: Introduction and quick overview of who I am.
 
@@ -32,7 +32,7 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 •	Contact: Links to my social media profiles and contact information.
 
-**Technologies**
+**Technologies**:
 
 This portfolio website is built using the following technologies:
 
@@ -42,7 +42,7 @@ This portfolio website is built using the following technologies:
 
 •	Deployment: Vercel
 
-**Setup and Installation**
+**Setup and Installation**:
 
 To get a local copy of this project up and running, follow these steps:
 
@@ -60,7 +60,7 @@ npm run dev
 
 5.	Open your browser and go to http://localhost:3000 to view the application.
 
-**Usage**
+**Usage**:
 
 •	About Section: Read more about my background and what I’m passionate about.
 
@@ -70,7 +70,7 @@ npm run dev
 
 •	Contact Section: Connect with me through social media and other channels.
 
-**Contact**
+**Contact**:
 
 Feel free to reach out to me through the following platforms:
 
@@ -78,7 +78,7 @@ Feel free to reach out to me through the following platforms:
 
 •	GitHub
 
-**Author**
+**Author**:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
