@@ -22,53 +22,53 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 **Sections**:
 
-•	Home: Introduction and quick overview of who I am.
+•	**Home:** Introduction and quick overview of who I am.
 
-•	About: Details about my background, experience, and what drives me.
+•	**About:** Details about my background, experience, and what drives me.
 
-•	Skills: A comprehensive list of my technical skills and areas of expertise.
+•	**Skills:** A comprehensive list of my technical skills and areas of expertise.
 
-•	Projects: Showcase of selected projects with descriptions and links to live versions and source code.
+•	**Projects:** Showcase of selected projects with descriptions and links to live versions and source code.
 
-•	Contact: Links to my social media profiles and contact information.
+•	**Contact:** Links to my social media profiles and contact information.
 
 **Technologies**:
 
 This portfolio website is built using the following technologies:
 
-•	Frontend: React on JavaScript, HTML5, CSS3
+•	**Frontend:** React on JavaScript, HTML5, CSS3
 
-•	Backend: Node.js (Optional, if backend features are included in future updates)
+•	**Backend:** Node.js (Optional, if backend features are included in future updates)
 
-•	Deployment: Vercel
+•	**Deployment:** Vercel
 
 **Setup and Installation**:
 
 To get a local copy of this project up and running, follow these steps:
 
-1.	Clone the repository:
+1.	**Clone the repository:**
 git clone https://github.com/pratham891/portfolio.git
 
-2.	Navigate to the Project Directory:
+2.	**Navigate to the Project Directory:**
 cd portfolio
 
-3.	INstall Dependencies:
+3.	**INstall Dependencies:**
 npm install
 
-4.	Start the development server:
+4.	**Start the development server:**
 npm run dev
 
 5.	Open your browser and go to http://localhost:3000 to view the application.
 
 **Usage**:
 
-•	About Section: Read more about my background and what I’m passionate about.
+•	**About Section:** Read more about my background and what I’m passionate about.
 
-•	Skills Section: Browse through the list of technologies and tools I’m proficient in.
+•	**Skills Section:** Browse through the list of technologies and tools I’m proficient in.
 
-•	Projects Section: Explore my projects with descriptions, live links, and source code.
+•	**Projects Section:** Explore my projects with descriptions, live links, and source code.
 
-•	Contact Section: Connect with me through social media and other channels.
+•	**Contact Section:** Connect with me through social media and other channels.
 
 **Contact**:
 
