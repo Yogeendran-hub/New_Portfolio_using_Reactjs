@@ -26,11 +26,9 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 •	**About:** Details about my background, experience, and what drives me.
 
-•	**Skills:** A comprehensive list of my technical skills and areas of expertise.
+•	**Projects:** Showcase of selected projects with descriptions and links to source code.
 
-•	**Resume:** I invite you to take a look at my resume, where you can find a detailed overview of my skills, professional experience, educational background, and qualifications
-
-•	**Projects:** Showcase of selected projects with descriptions and links to live versions and source code.
+•	**Resume:** I invite you to take a look at my resume, where you can find a detailed overview of my skills, professional experience, educational background, and qualifications.
 
 •	**Contact:** Links to my social media profiles and contact information.
 
@@ -38,7 +36,7 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 This portfolio website is built using the following technologies:
 
-•	**Frontend:** React on JavaScript, HTML5, CSS3
+•	**Frontend:** React on JavaScript, HTML5, CSS3, Tailwind CSS
 
 •	**Backend:** Node.js (Optional, if backend features are included in future updates)
 
