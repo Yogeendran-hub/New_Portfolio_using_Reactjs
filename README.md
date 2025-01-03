@@ -45,10 +45,10 @@ This portfolio website is built using the following technologies:
 To get a local copy of this project up and running, follow these steps:
 
 1.	**Clone the repository:**
-git clone https://github.com/pratham891/portfolio.git
+git clone https://github.com/Yogeendran-hub/New_Portfolio_using_Reactjs/tree/main/portfolio-using-react.git
 
 2.	**Navigate to the Project Directory:**
-cd react
+cd portfolio-using-react
 
 3.	**Install Dependencies:**
 npm install
