@@ -15,7 +15,7 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 •	**Contact**
 
-•	**License**
+•	**Author**
 
 
 
@@ -62,9 +62,7 @@ npm start
 
 •	**About Section:** Read more about my background and what I’m passionate about.
 
-•	**Skills Section:** Browse through the list of technologies and tools I’m proficient in.
-
-•	**Projects Section:** Explore my projects with descriptions, live links, and source code.
+•	**Projects Section:** Explore my projects with descriptions and source code.
 
 •	**Contact Section:** Connect with me through social media and other channels.
 
@@ -72,11 +70,13 @@ npm start
 
 Feel free to reach out to me through the following platforms:
 
+•	Facebook
+
 •	LinkedIn
 
 •	GitHub
 
 **Author**:
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+The Author for this project is Yogeendran S.
 
